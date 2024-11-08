@@ -44,3 +44,5 @@ To run this project, you’ll need:
 1. Load the Verilog files into your simulation environment.
 2. Compile and run the simulation using the provided test program files.
 3. Observe the pipeline registers and memory contents to verify correct processor operation.
+   ![{FD1A353B-A31B-4E99-BB0E-6551788211D9}](https://github.com/user-attachments/assets/8d531c65-b75e-4d2c-bf49-d445dc1bcbf7)
+
